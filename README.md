@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 Linkedin-https://www.linkedin.com/in/chiranjeeb-das-823891223/
+- 📫 chiranjeebdas2003@gmail.com
 
 <!---
 generalduke012/generalduke012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
