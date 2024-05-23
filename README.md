@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @generalduke012
-- 👀 I’m interested in Data science
+- 👀 I’m interested in AIML
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 chiranjeebdas2003@gmail.com
